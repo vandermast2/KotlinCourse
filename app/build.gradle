@@ -41,7 +41,6 @@ dependencies {
     implementation 'androidx.legacy:legacy-support-v4:1.0.0'
 
     def lifecycle_ver = "2.3.1"
-    implementation "androidx.lifecycle:lifecycle-extensions:$lifecycle_ver"
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycle_ver"
     implementation "androidx.lifecycle:lifecycle-runtime-ktx:$lifecycle_ver"
     implementation "androidx.lifecycle:lifecycle-common-java8:$lifecycle_ver"
