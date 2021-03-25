@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinCourse</string>
+    <string name="optional_info_email_invalid">Email invalid</string>
+</resources>
